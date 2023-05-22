@@ -1,2 +1,2 @@
 # vuejsMansilla.io
-Curso Coderhouse 2022
+Curso Coderhouse 2023
